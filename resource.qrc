@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>image.jpg</file>
+        <file>dark-side.png</file>
+    </qresource>
+</RCC>
